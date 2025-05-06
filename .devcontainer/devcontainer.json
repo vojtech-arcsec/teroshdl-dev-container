@@ -1,0 +1,11 @@
+{
+    "name": "TerosHDL Dev Container",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": ["teros-technology.teroshdl"]
+        }
+    }
+}
